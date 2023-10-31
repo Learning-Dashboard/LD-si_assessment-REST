@@ -1,4 +1,4 @@
-# LD-si_assessment-rest [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+# LD-si_assessment-REST [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 Wrapper to provide the LD-si_assessment library functionality as RESTful services.
 
 ## Main Functionality
