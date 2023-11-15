@@ -1,5 +1,5 @@
-= SI Assessment Api REST Documentation
-v1.0, {docdate}
+= SI Assessment API REST Documentation
+v0.1, {docdate}
 :toc: left
 
 :sectnums:
