@@ -33,7 +33,7 @@ Deployment steps:
 1. Deploy LD-si_assessment-rest-X.Y.X.war in your Web Server
 
 ## Documentation
-You can find the technical documentation of the RESTful API [here](https://learning-dashboard.github.io/LD-si_assessment-rest/).
+You can find the technical documentation of the RESTful API [here](https://learning-dashboard.github.io/LD-si_assessment-REST/).
 
 ## Licensing
 This program is free software: you can redistribute it and/or modify 	it under the terms of the GNU General Public License as published by 	the Free Software Foundation, either version 3 of the License, or 	 (at your option) any later version.
