@@ -30,7 +30,7 @@ Prerequisites:
 * Oracle Java JRE
 
 Deployment steps:
-1. Deploy LD-si_assessment-rest-X.Y.X.war in your Web Server
+1. Deploy LD-si_assessment-rest.war in your Web Server
 
 ## Documentation
 You can find the technical documentation of the RESTful API [here](https://learning-dashboard.github.io/LD-si_assessment-REST/).
